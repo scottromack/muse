@@ -1,4 +1,4 @@
-# MUSE Framework
+# MUSE Framework — DEPRECATED: Use https://github.com/scottromack/grace-commons
 
 **A living specification language for multi-human + multi-AI software development.**
 
